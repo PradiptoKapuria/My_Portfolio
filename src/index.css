@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Custom theme (v4 way) */
+@theme {
+  --font-serif: "DM Serif Display", serif;
+  --font-inter: "Inter", sans-serif;
+  --font-pop: "Poppins", sans-serif;
+
+  --color-primary: #000;
+  --color-accent: #ef4444;
+}
