@@ -277,7 +277,7 @@ export default function Portfolio() {
                 <a href><span className="work-arrow">↗</span></a>
               </div>
 
-              <div className="work-item reveal">
+             <a href="https://pizza-tray-zqew.vercel.app/"> <div className="work-item reveal">
                 <span className="work-year">2026</span>
                 <div className="work-info">
                   <span className="work-title">Pizza Tray</span>
@@ -288,9 +288,25 @@ export default function Portfolio() {
                   <span className="tag">HTML</span>
                   <span className="tag">CSS</span>
                 </div>
-                <a href="https://pizza-tray-zqew.vercel.app/"><span className="work-arrow">↗</span></a>
+                <span className="work-arrow">↗</span>
               </div>
+              </a>
 
+              <a href="https://neonchat-phi.vercel.app/"> <div className="work-item reveal">
+                <span className="work-year">2026</span>
+                <div className="work-info">
+                  <span className="work-title">NeonChat</span>
+                  <span className="work-desc">A small chatting application</span>
+                </div>
+                <div className="work-tags">
+                  <span className="tag">React</span>
+                  <span className="tag">HTML</span>
+                  <span className="tag">CSS</span>
+                </div>
+                <span className="work-arrow">↗</span>
+              </div>
+              </a>
+              
               
             </div>
           </div>
